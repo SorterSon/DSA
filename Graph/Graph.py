@@ -1009,7 +1009,7 @@ def min_effort_path(matrix):
     return ans
 
 def min_multiply_to_reach_end(start, end, arr, mod):
-    
+    pass
     
 if __name__ == "__main__":
     graph = Graph(5, True, True)
