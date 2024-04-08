@@ -1,0 +1,1 @@
+This repository is entirely dedicated to DATA STRUCTURES & ALGORITHMS and particularly to Striver's Playlist.
